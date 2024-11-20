@@ -10,7 +10,7 @@ const readOnlyBook: ReadOnlyBook = {
     numberOfPages: 545
 };
 
-readOnlyBook.name = "New Wave";
+// readOnlyBook.name = "New Wave";
 console.log(readOnlyBook);
 
 interface IReadOnlyBook extends Readonly<IBook> {}
@@ -23,9 +23,9 @@ const readonlyBook2: IReadOnlyBook = {
     numberOfPages: 222
 }; 
 
-readonlyBook2.shortDescription = "changed description";
+// readonlyBook2.shortDescription = "changed description";
 
-console.log(readOnlyBook2);
+// console.log(readOnlyBook2);
 
 
 
