@@ -19,4 +19,5 @@ const requiredBook2: IRequiredBook = {
     shortDescription: "Difference trading", 
     numberOfPages: 111
 };
+console.log(requiredBook, requiredBook2);
 

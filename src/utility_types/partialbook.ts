@@ -12,4 +12,5 @@ const partialBook2: IPartialBook = {
     name: "Utility Types Level"
 };
 
+console.log(partialBook, partialBook2);
 

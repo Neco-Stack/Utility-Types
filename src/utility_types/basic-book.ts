@@ -16,3 +16,4 @@ const basicBook2: IBasicBook = {
     name: "Jose Mourinho",
     numberOfPages: 199
 }
+console.log(basicBook, basicBook2);

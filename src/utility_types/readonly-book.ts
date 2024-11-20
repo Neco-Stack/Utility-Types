@@ -26,6 +26,7 @@ const readonlyBook2: IReadOnlyBook = {
 // readonlyBook2.shortDescription = "changed description";
 
 // console.log(readOnlyBook2);
+console.log(readonlyBook2);
 
 
 
